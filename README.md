@@ -22,7 +22,9 @@ DocNest is a simple healthcare portal where patients can book appointments, uplo
 4. Start Apache and MySQL
 5. Open `http://localhost/docnest` in your browser
 
-## 👨‍💻 Developed by
+
+
+
 
 **Akash B**  
 [GitHub](https://github.com/Akash242005) | [Portfolio](https://itsakashbportfolio.netlify.app/)
